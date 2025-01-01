@@ -19,4 +19,4 @@ Start the Streamlit app:
 
 streamlit run app.py Acknowledgements Streamlit TensorFlow
 
-P1-Implementation-of-ML-model-for-image-
+P1-Implementation-of-ML-model-using-AI-for-image-classification
